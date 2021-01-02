@@ -49,6 +49,16 @@ Here are some ideas to get you started:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
+## 📮 Reach Out to me
+
+
+<a href='mailto:kartik.puri95@gmail.com' >
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/minutemailer.svg" />
+</a>
+<a  href='https://github.com/kartikpuri95/' >
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+</a>
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik&hide=TeX&layout=compact)
  -->
