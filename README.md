@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="kartikbanner.png" alt="Banner about Arturs Smirnovs">
 <!--
 **kartikpuri95/kartikpuri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
