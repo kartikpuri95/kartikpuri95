@@ -1,6 +1,6 @@
 ### Hi I am Kartik ! 👋
 
-<img src="kartikbanner.png" alt="Banner about Arturs Smirnovs">
+<img src="animated_banner.gif" alt="Banner about Arturs Smirnovs">
 I am a Self-taught Full-stack developer who has been in the IT industry for around the last 3 years now, based at a consultancy company. I have been fortunate to be involved with building some massive IT systems, apps and Software solutions, using a range of technologies like Python, Elastic search,VueJs,DBMS, Salesforce Lightning web components
 
 <!--
