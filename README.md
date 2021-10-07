@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-  <a href="https://twitter.com/omBratteng">
+  <a href="https://twitter.com/chopcoding">
     <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/twitter/follow/chopcoding?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a href="https://github.com/omBratteng">
+  <a href="https://github.com/kartikpuri95">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://api.daily.dev/" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+      src="https://github.com/kartikpuri95/kartikpuri95/blob/main/devcard.svg"
     />
   </a>
 </div>
@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 <a  href='https://dev.to/kartikpuri95' >
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" />
 </a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kartikpuri95/kartikpuri95/blob/main/devcard.svg" width="400" alt="Kartik Puri's Dev Card"/></a>
+
 
 
