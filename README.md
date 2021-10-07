@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 <a  href='https://dev.to/kartikpuri95' >
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" />
 </a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kartikpuri5/kartikpuri5/blob/master/devcard.svg" width="400" alt="Kartik Puri's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kartikpuri5/kartikpuri5/blob/main/devcard.svg" width="400" alt="Kartik Puri's Dev Card"/></a>
 
